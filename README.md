@@ -1,21 +1,26 @@
 # NYC Restaurant Food Safety Analysis
+
 A comprehensive data analysis project examining restaurant health inspection results across New York City to identify patterns in violations, grades, and cuisine safety performance.
 
 ---
 # 📋 Project Overview
-The NYC Dapartment of Health manages a massive volume of food safety data. However, raw data alone does not improve public health. This project analyzes a decade of inspection data to transition the city from a reactive inspection model to a proactive, intelligence led approach. By identifying high rish patterns across cuisines and neighborhoods, the analysis helps city leadership understand which types of restaurants struggle with food safety, which neighborhoods are at highest risk, and what violations are most common.
+
+This project leverages a dataset of over 280,000 inspection records to analyze food safety trends across New York City from 2015 to 2025. By evaluating violation patterns, cuisine-specific risks, and geographic concentrations, this analysis provides actionable, data-driven recommendations to help the NYC Department of Health transition from a reactive inspection model to a proactive, intelligence-led strategy.
 
 ---
 
 # 🎯Business Problem
+
 The NYC Department of Health needs data-driven insights to:
 - Identify patterns in restaurant violations (Critical Vs Non-critical)
 - Understand which cuisines and neighborhoods have the lowest food safety performance
 - Track how restaurant grades and violations vary across boroughs and over time
 - Determine where to focus inspections, policies, or education to improve food safety
+
 ---
 
 # 🛠️ Technical Stack
+
 - **Excel** - Data cleaning and transformation
 - **SQL** - Analysis and Aggregation
 - **Power BI** - Data visualization and interactive dashboards
@@ -23,6 +28,7 @@ The NYC Department of Health needs data-driven insights to:
 ---
 
 # 🔍 Key Insights
+
 - **The "10F" Systemic Issue:** Violation 10F is the most widespread citywide, representing a systemic failure in paperwork/maintenance that drains inspector time.
 
 - **The Manhattan Hot Zone:** Manhattan is the only borough where three specific critical violations (06D, 02G, 06C) appear in the Top 10, indicating a high concentration of foodborne illness risk.
@@ -34,6 +40,7 @@ The NYC Department of Health needs data-driven insights to:
 ---
 
 # 💡 Strategic Recommendations
+
 - **Launch "Critical Strike" Task Force:** Prioritize stricter inspection scheduling in Manhattan high-traffic tourist zones.
  
 - **Digital Self-Correction Portals:** Implement a portal for "Not Critical" violations (like 10F) to free up inspectors for life-threatening failures.
@@ -45,28 +52,23 @@ The NYC Department of Health needs data-driven insights to:
 ---
 
 # 📊 Dashboard Preview
-<img width="1144" height="724" alt="Screenshot 2026-06-22 155150" src="https://github.com/user-attachments/assets/e9cd4de9-f389-41d2-b3b4-d8a5337c0773" />
+
+<img width="1080" height="700" alt="Screenshot 2026-06-22 155150" src="https://github.com/user-attachments/assets/e9cd4de9-f389-41d2-b3b4-d8a5337c0773" />
 
 ---
 
 # 🤝 Acknowledgments
+
 This project was completed as part of the DelveTek Advanced Data Analytics Internship.
 
 ---
 
 # 📂 Repository Structure
-<> Text
-nyc-food-safety-analysis/
- ├── README.md
- ├── data/
- │   └── nyc_inspection_data.csv
- ├── excel/
- │   └── inspection_analysis.xlsx
- ├── sql/
- │   └── NYC_Inspection_SQL.sql
- ├── powerbi/
- │   └── NYC_Inspection_Dashboard.pbix
- └── documentation/
-     └── NYC_Inspection_Analysis_Report.pptx
+
+- `Data/`: Sample of the raw and cleaned data.
+- `SQL_Queries/`: Scripts used for data aggregation and risk scoring.
+- `Documentation/`: Full PDF Analysis Report.
+- `README.md`: Project overview and summary.
+ 
 
 
