@@ -30,7 +30,8 @@ The NYC Department of Health needs data-driven insights to:
 - New Owner Bootcamp: Mandatory hands-on training for new licensees to prevent violations before they occur.
 
 # 📊 Dashboard Preview
-![Dashboard Screenshot] ("C:\Users/HP/Pictures/Screenshots/Screenshot 2026-06-22 155150.png")
+<img width="1144" height="724" alt="Screenshot 2026-06-22 155150" src="https://github.com/user-attachments/assets/e9cd4de9-f389-41d2-b3b4-d8a5337c0773" />
+
 
 # 📂 Repository Structure
 ├── Data/                 # (Optional) Sample of cleaned data
