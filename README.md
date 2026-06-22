@@ -1,12 +1,10 @@
 # NYC Restaurant Food Safety Analysis
----
 # 📋 Project Overview
----
 The NYC Department of Health manages a massive volume of food safety data (over 280,000 records). However, raw data alone does not improve public health. This project analyzes a decade of inspection data to transition the city from a reactive inspection model to a proactive, intelligence-led approach.
 By identifying high-risk patterns across cuisines and neighborhoods, this analysis helps city leadership understand which types of restaurants struggle with food safety, which neighborhoods are at highest risk, and what violations are most common.
+---
 
 # 🎯Business problem
----
 The NYC Department of Health needs data-driven insights to:
 - Identify patterns in restaurant violations (Critical Vs Non-critical)
 - Understand which cuisines and neighborhoods have the lowest food safety performance
