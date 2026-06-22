@@ -1,5 +1,8 @@
 # NYC Restaurant Food Safety Analysis
 A comprehensive data analysis project examining restaurant health inspection results across New York City to identify patterns in violations, grades, and cuisine safety performance.
+
+
+A comprehensive data analysis project examining restaurant health inspection results across New York City to identify patterns in violations, grades, and cuisine safety performance.
 ---
 # 📋 Project Overview
 The NYC Dapartment of Health manages a massive volume of food safety data. However, raw data alone does not improve public health. This project analyzes a decade of inspection data to transition the city from a reactive inspection model to a proactive, intelligence led approach. By identifying high rish patterns across cuisines and neighborhoods, the analysis helps city leadership understand which types of restaurants struggle with food safety, which neighborhoods are at highest risk, and what violations are most common.
