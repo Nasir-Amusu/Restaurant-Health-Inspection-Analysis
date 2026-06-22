@@ -16,7 +16,7 @@ Excel - Data cleaning and transformation
 SQL - Analysis and Aggregation
 Power BI - Data visualization and interactive dashboards
 
-🔍 Key Insights
+# 🔍 Key Insights
 The "10F" Systemic Issue: Violation 10F is the most widespread citywide, representing a systemic failure in paperwork/maintenance that drains inspector time.
 The Manhattan Hot Zone: Manhattan is the only borough where three specific critical violations (06D, 02G, 06C) appear in the Top 10, indicating a high concentration of foodborne illness risk.
 Long-Term Deterioration: Since 2015, city-wide A-grade rates have dropped from nearly 100% to a 58%-70% range, with Queens currently identified as the riskiest borough in 2025.
@@ -28,15 +28,15 @@ Digital Self-Correction Portals: Implement a portal for "Not Critical" violation
 Targeted Multilingual Education: Launch cultural outreach programs in native languages (Bengali, French) for cuisines identified as high-risk.
 New Owner Bootcamp: Mandatory hands-on training for new licensees to prevent violations before they occur.
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 ![Dashboard Screenshot]("C:\Users\HP\Pictures\Screenshots\Screenshot 2026-06-22 155150.png")
 
-📂 Repository Structure
+# 📂 Repository Structure
 ├── Data/                 # (Optional) Sample of cleaned data
 ├── SQL_Queries/          # Scripts for cleaning and aggregation
 ├── Documentation/        # Detailed analysis report (PDF)
 └── README.md             # Project overview
 
-🤝 Acknowledgments
+# 🤝 Acknowledgments
 This project was completed as part of the DelveTek Advanced Data Analytics Internship.
 
