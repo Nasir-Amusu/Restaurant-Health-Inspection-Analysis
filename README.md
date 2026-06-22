@@ -53,7 +53,7 @@ The NYC Department of Health needs data-driven insights to:
 
 # 📊 Dashboard Preview
 
-<img width="1080" height="700" alt="Screenshot 2026-06-22 155150" src="https://github.com/user-attachments/assets/e9cd4de9-f389-41d2-b3b4-d8a5337c0773" />
+<img width="1080" height="650" alt="Screenshot 2026-06-22 155150" src="https://github.com/user-attachments/assets/e9cd4de9-f389-41d2-b3b4-d8a5337c0773" />
 
 ---
 
@@ -65,8 +65,8 @@ This project was completed as part of the DelveTek Advanced Data Analytics Inter
 
 # 📂 Repository Structure
 
-- `Data/`: Sample of the raw and cleaned data.
-- `SQL_Queries/`: Scripts used for data aggregation and risk scoring.
+- `Data/`: Nyc_inspection data.
+- `SQL_Queries/`: Scripts used for importation and analysis
 - `Documentation/`: Full PDF Analysis Report.
 - `README.md`: Project overview and summary.
  
